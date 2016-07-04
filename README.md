@@ -3,7 +3,7 @@ mnegri-ov198
 
 This repository holds scripts and raw data used by the publication:
 
-TBD
+Paracchini L, Mannarino L, *et al.*, Oncotarget (2016), in press.
 
 and it is divided in several subdirectories:
 
